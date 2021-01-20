@@ -1,0 +1,9 @@
+set mouse = yes
+set refresh-mode = auto
+
+set commit-order = default
+
+set main-options = -n 1000
+set main-view = id:false date:relative author:full line-number:false \
+		commit-title:graph=v2,overflow=true,refs=false
+
